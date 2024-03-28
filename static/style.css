@@ -1,0 +1,26 @@
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #f8f9fa;
+    padding-bottom: 70px; /* Height of the footer */
+  }
+  h1 {
+    color: #007bff;
+  }
+  #weatherForm {
+    margin-bottom: 20px;
+  }
+  #weatherTable {
+    margin-top: 20px;
+  }
+  .spinner-border {
+    display: none; /* Initially hide the spinner */
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+    text-align: center;
+    color: #6c757d;
+    padding: 10px 0;
+  }
