@@ -25,4 +25,4 @@ Weatherly integrates with a reliable weather API to fetch current weather data a
 
 Contributions:
 
-Contributions to Weatherly are welcome! Whether you're interested in enhancing the application's features, improving its performance, or fixing bugs, we encourage developers to contribute to the project and help make Weatherly even better.
+Contributions to Weatherly are welcome! Whether you're interested in enhancing the application's features, improving its performance, or fixing bugs,I encourage developers to contribute to the project and help make Weatherly even better.
